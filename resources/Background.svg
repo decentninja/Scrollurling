@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="402px" height="3374px" viewBox="0 0 402 3374" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.5 (25229) - http://www.bohemiancoding.com/sketch -->
+    <title>Background</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Background" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-1" fill="#FFFFFF" sketch:type="MSShapeGroup" x="8.9921875" y="0" width="384" height="3374"></rect>
+            <text id="Scroll-as-close-as-p" sketch:type="MSTextLayer" font-family="Roboto" font-size="16" font-weight="normal" sketch:alignment="middle" line-spacing="15" fill="#17A4FF">
+                <tspan x="94.8359375" y="130.764156">Scroll as </tspan>
+                <tspan x="159.953125" y="130.764156" font-weight="420">close</tspan>
+                <tspan x="198.296875" y="130.764156"> as </tspan>
+                <tspan x="223.242187" y="130.764156" font-weight="420">possible</tspan>
+                <tspan x="283.734375" y="130.764156" font-weight="bold"> </tspan>
+                <tspan x="136.046875" y="145.764156">with </tspan>
+                <tspan x="170.023437" y="145.764156" font-weight="420">one swipe</tspan>
+            </text>
+            <rect id="Rectangle-3" fill-opacity="0.768087636" fill="#313131" sketch:type="MSShapeGroup" x="0.4921875" y="386.923714" width="401" height="3.91517954"></rect>
+            <rect id="Rectangle-3-Copy" fill="#9B9B9B" sketch:type="MSShapeGroup" x="8.92240287" y="2959.71732" width="384.139569" height="1.64891963"></rect>
+            <rect id="Rectangle-3-Copy-2" fill="#9B9B9B" sketch:type="MSShapeGroup" x="8.9921875" y="2798.58419" width="384" height="1.96877481"></rect>
+            <rect id="Rectangle-3-Copy-3" fill="#9B9B9B" sketch:type="MSShapeGroup" x="8.9921875" y="2548.58419" width="384" height="1.96877481"></rect>
+            <rect id="Rectangle-3-Copy-4" fill="#9B9B9B" sketch:type="MSShapeGroup" x="8.9921875" y="2078.58419" width="384" height="1.96877481"></rect>
+            <rect id="Rectangle-3-Copy-5" fill="#9B9B9B" sketch:type="MSShapeGroup" x="8.9921875" y="1468.58419" width="384" height="1.96877481"></rect>
+            <text id="No-scrolling-beyond-" sketch:type="MSTextLayer" font-family="Roboto Condensed" font-size="11" font-style="condensed" font-weight="bold" sketch:alignment="middle" fill="#313131">
+                <tspan x="133.499023" y="382.923714">No scrolling beyond this point.</tspan>
+            </text>
+            <rect id="Rectangle-4" fill="#8B8B8B" sketch:type="MSShapeGroup" x="198.981752" y="390.838893" width="4.0208711" height="2983.16111"></rect>
+            <rect id="Rectangle-4-Copy" fill="#25DE75" sketch:type="MSShapeGroup" x="18.9817519" y="390.838893" width="0.63013044" height="2983.16111"></rect>
+            <rect id="Rectangle-4-Copy-2" fill="#25DE75" sketch:type="MSShapeGroup" x="381.981752" y="390.838893" width="0.63013044" height="2983.16111"></rect>
+            <circle id="Oval-1" stroke="#17A4FF" stroke-width="45" sketch:type="MSShapeGroup" cx="200.992187" cy="2960.54178" r="134.244133"></circle>
+            <circle id="Oval-1-Copy" stroke="#EB3D3D" stroke-width="33" sketch:type="MSShapeGroup" cx="200.992188" cy="2960.54178" r="44.0967504"></circle>
+            <text id="Scrollurling" sketch:type="MSTextLayer" font-family="Roboto" font-size="45" font-weight="bold" sketch:alignment="middle" fill="#D72828">
+                <tspan x="84.3942871" y="110.394286">Scrollurling</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

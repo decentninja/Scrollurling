@@ -1,0 +1,10 @@
+.background {
+    width: 100%;
+}
+
+.rock-wrapper {
+    top: 50%;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
